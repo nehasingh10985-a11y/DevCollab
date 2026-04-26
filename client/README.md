@@ -245,8 +245,8 @@ Database  →  MongoDB Atlas (free M0 cluster)
 
 **Neha Singh**
 
-[![GitHub](https://img.shields.io/badge/GitHub-nehasingh-181717?style=flat&logo=github)](https://github.com/nehasingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha_Singh-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nehasingh)
+[![GitHub](https://img.shields.io/badge/GitHub-nehasingh-181717?style=flat&logo=github)](https://github.com/nehasingh10985-a11y?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha_Singh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/neha-singh-aa436324b/)
 
 ---
 

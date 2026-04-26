@@ -22,7 +22,7 @@ _Code together. Chat together. Build together._
 
   <tr>
     <td width="50%">
-      <img src="./assets/Collaboration.png" alt="Live Cursors" width="100%">
+      <img src="https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/Collaboration.png" alt="Live Cursors" width="100%">
       <p align="center"><b>Live Cursor Sync</b></p>
     </td>
     <td width="50%">

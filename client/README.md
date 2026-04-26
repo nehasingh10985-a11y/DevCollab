@@ -16,7 +16,7 @@ _Code together. Chat together. Build together._
 
 ### 💻 Main Workspace
 <p align="center">
-  <img src="https://github.com/nehasingh10985a11y/DevCollab/blob/main/client/src/assets/Collaboration.png?raw=true" alt="Live Cursors Sync" width="100%">
+  <img src="https://raw.githubusercontent.com/nehasingh10985-a11y/DevCollab/main/client/src/assets/Collaboration.png" alt="DevCollab Collaboration" width="100%">
 </p>
 
 <br/>

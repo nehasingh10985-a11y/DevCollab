@@ -43,7 +43,7 @@ _Code together. Chat together. Build together._
   </tr>
 </table>
 
-## </div>
+</div>
 
 ## ✨ Features
 

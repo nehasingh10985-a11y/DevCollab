@@ -16,7 +16,7 @@ _Code together. Chat together. Build together._
 
 ### 💻 Main Workspace
 <p align="center">
-  <img src=" https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/Collaboration.png " alt="DevCollab Main Workspace" width="100%">
+  <img src="https://github.com/nehasingh10985a11y/DevCollab/blob/main/client/src/assets/Collaboration.png " alt="DevCollab Main Workspace" width="100%">
 </p>
 
 <br/>

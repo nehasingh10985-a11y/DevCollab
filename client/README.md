@@ -15,33 +15,35 @@ _Code together. Chat together. Build together._
 <br/>
 
 ### 💻 Main Workspace
-
-![Main UI](./assets/Dashboard.png)
+![Main UI](./client/src/assets/https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/Dashboard.png)
 
 <br/>
 
+<table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/Collaboration.png" alt="Live Cursors" width="100%">
+      <img src="./client/src/assets/Collaboration.png" alt="Live Cursors" width="100%">
       <p align="center"><b>Live Cursor Sync</b></p>
     </td>
     <td width="50%">
-      <img src="./assets/Chat.png" alt="Real-time Chat" width="100%">
+      <img src="./client/src/assets/Chat.png" alt="Real-time Chat" width="100%">
       <p align="center"><b>Chat with Seen Status</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="./assets/AI-Helper.png" alt="AI Helper" width="100%">
+      <img src="./client/src/assets/AI-Helper.png" alt="AI Helper" width="100%">
       <p align="center"><b>AI Code Explanation</b></p>
     </td>
     <td width="50%">
-      <img src="./assets/Diff-View.png" alt="Diff Viewer" width="100%">
+      <img src="./client/src/assets/Diff-View.png" alt="Diff Viewer" width="100%">
       <p align="center"><b>Side-by-side Diff View</b></p>
     </td>
   </tr>
 </table>
+
 </div>
+
 ## ✨ Features
 
 ### 🔐 Authentication

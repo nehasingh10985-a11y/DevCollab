@@ -15,20 +15,6 @@ _Code together. Chat together. Build together._
 <br/>
 
 ### 💻 Main Workspace
-<<<<<<< HEAD
-
-![Main UI](./assets/Dashboard.png)
-
-<br/>
-
-  <tr>
-    <td width="50%">
-      <img src="./assets/Collaboration.png" alt="Live Cursors" width="100%">
-      <p align="center"><b>Live Cursor Sync</b></p>
-    </td>
-    <td width="50%">
-      <img src="./assets/Chat.png" alt="Real-time Chat" width="100%">
-=======
 <p align="center">
   <img src="https://raw.githubusercontent.com/nehasingh10985-a11y/DevCollab/main/client/src/assets/Dashboard.png" alt="DevCollab Main Workspace" width="100%">
 </p>
@@ -43,34 +29,22 @@ _Code together. Chat together. Build together._
     </td>
     <td width="50%">
       <img src="https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/Chat.png" alt="Real-time Chat" width="100%">
->>>>>>> 2b658bf9695b82b985ab801b98874ab76a63910b
       <p align="center"><b>Chat with Seen Status</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-<<<<<<< HEAD
-      <img src="./assets/AI-Helper.png" alt="AI Helper" width="100%">
-      <p align="center"><b>AI Code Explanation</b></p>
-    </td>
-    <td width="50%">
-      <img src="./assets/Diff-View.png" alt="Diff Viewer" width="100%">
-=======
       <img src="https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/AI-Helper.png" alt="AI Helper" width="100%">
       <p align="center"><b>AI Code Explanation</b></p>
     </td>
     <td width="50%">
       <img src="https://github.com/nehasingh10985-a11y/DevCollab/blob/main/client/src/assets/Diff-View.png" alt="Diff Viewer" width="100%">
->>>>>>> 2b658bf9695b82b985ab801b98874ab76a63910b
       <p align="center"><b>Side-by-side Diff View</b></p>
     </td>
   </tr>
 </table>
-<<<<<<< HEAD
-=======
 
 </div>
->>>>>>> 2b658bf9695b82b985ab801b98874ab76a63910b
 
 ## ✨ Features
 
